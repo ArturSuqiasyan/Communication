@@ -1,0 +1,14 @@
+{
+  "tasks": [
+    {
+      "id": "18b6",
+      "text": "task",
+      "status": "completed"
+    },
+    {
+      "id": "6e87",
+      "text": "list",
+      "status": "in progress"
+    }
+  ]
+}
